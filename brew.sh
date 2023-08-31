@@ -110,6 +110,7 @@ brew install --cask exodus
 brew install --cask spotify
 brew install --cask fanny
 brew install --cask zwift
+brew install --cask digikam
 
 
 # Remove outdated versions from the cellar.
